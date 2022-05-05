@@ -8,6 +8,12 @@ Until recently, I worked as a software engineer at beQualified GmbH, where I dev
 Previously, I obtained a PhD in mechanical engineering, for which I improved the accuracy and fidelity of numerical predictions of turbulent fluid flows.
 I also was a visiting researcher at several universities.
 
+## Projects
+
+- [Challenges](https://github.com/mauritssilvis/challenges): A collection of programming challenges, solved using different programming languages
+- [Patterns](https://github.com/mauritssilvis/patterns): A collection of design patterns, implemented in different programming languages
+- [lesTools](https://github.com/mauritssilvis/lesTools): A toolbox for the construction and assessment of subgrid-scale models for large-eddy simulations
+
 ## Links
 
 - [Personal website](https://www.mauritssilvis.nl/)
