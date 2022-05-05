@@ -7,3 +7,8 @@ Hi there! My name is Maurits Silvis. As a software engineer with a background in
 Until recently, I worked as a software engineer at beQualified GmbH, where I developed and maintained a Java-based test automation framework for web applications.
 Previously, I obtained a PhD in mechanical engineering, for which I improved the accuracy and fidelity of numerical predictions of turbulent fluid flows.
 I also was a visiting researcher at several universities.
+
+## Links
+
+- [Personal website](https://www.mauritssilvis.nl/)
+- [LinkedIn](https://www.linkedin.com/in/mauritssilvis/)
