@@ -16,8 +16,7 @@ I also was a visiting researcher at several universities.
 
 ## Contributions
 
-- [x] https://github.com/reportportal/agent-java-cucumber6/issues/20
-- [x] https://github.com/reportportal/agent-java-cucumber6/pull/21
+- https://github.com/reportportal/agent-java-cucumber6/pull/21: Support scenario outlines with dynamic names
 
 ## Links
 
