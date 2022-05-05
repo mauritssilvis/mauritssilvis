@@ -16,6 +16,7 @@ I also was a visiting researcher at several universities.
 
 ## Contributions
 
+- https://github.com/reportportal/agent-java-cucumber6/issues/20
 - https://github.com/reportportal/agent-java-cucumber6/pull/21
 
 ## Links
