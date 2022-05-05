@@ -16,6 +16,12 @@ I also was a visiting researcher at several universities.
 
 ## Contributions
 
+### Issues
+
+- https://github.com/reportportal/agent-java-cucumber6/issues/20: Scenario outlines with dynamic names not supported
+
+### Pull requests
+
 - https://github.com/reportportal/agent-java-cucumber6/pull/21: Support scenario outlines with dynamic names
 
 ## Links
