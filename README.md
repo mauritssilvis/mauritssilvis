@@ -10,8 +10,8 @@ I also was a visiting researcher at several universities.
 
 ## Projects
 
-- [Challenges](https://github.com/mauritssilvis/challenges): A collection of programming challenges, solved using different programming languages
-- [Patterns](https://github.com/mauritssilvis/patterns): A collection of design patterns, implemented in different programming languages
+- [challenges](https://github.com/mauritssilvis/challenges): A collection of programming challenges, solved using different programming languages
+- [patterns](https://github.com/mauritssilvis/patterns): A collection of design patterns, implemented in different programming languages
 - [lesTools](https://github.com/mauritssilvis/lesTools): A toolbox for the construction and assessment of subgrid-scale models for large-eddy simulations
 
 ## Contributions
