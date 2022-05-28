@@ -10,8 +10,8 @@ Until recently, I worked as a software engineer at beQualified GmbH, where I dev
 Previously, I obtained a PhD in mechanical engineering, for which I improved the accuracy and fidelity of numerical predictions of turbulent fluid flows.
 I also was a visiting researcher at several universities.
 
-Moving forward, I would like to contribute to the creation of high-quality software for solving technological challenges.
-Therefore, I am currently looking for a position as a software engineer for high-tech, deep-tech and/or engineering applications.
+Moving forward, I would like to contribute to creating high-quality software for solving technological challenges.
+Therefore, I am currently looking for a position as a software engineer for high-tech, deep-tech or engineering applications.
 
 ## Projects
 
