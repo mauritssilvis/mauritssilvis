@@ -17,6 +17,7 @@ Therefore, I am currently looking for a position as a software engineer for high
 
 - [challenges](https://github.com/mauritssilvis/challenges): A collection of programming challenges, solved using different programming languages
 - [patterns](https://github.com/mauritssilvis/patterns): A collection of design patterns, implemented in different programming languages
+- [types](https://github.com/mauritssilvis/types): A collection of data types and structures, implemented in different programming languages
 - [lesTools](https://github.com/mauritssilvis/lesTools): A toolbox for the construction and assessment of subgrid-scale models for large-eddy simulations
 
 ## Contributions
