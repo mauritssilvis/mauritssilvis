@@ -21,9 +21,9 @@ Therefore, I am currently looking for a position as a software engineer for high
 
 ### Educational projects
 
-- [challenges](https://github.com/mauritssilvis/challenges): A collection of programming challenges, solved using different programming languages
-- [patterns](https://github.com/mauritssilvis/patterns): A collection of design patterns, implemented in different programming languages
-- [types](https://github.com/mauritssilvis/types): A collection of data types and structures, implemented in different programming languages
+- [challenges](https://github.com/mauritssilvis/challenges): A collection of programming challenges
+- [patterns](https://github.com/mauritssilvis/patterns): A collection of design patterns
+- [types](https://github.com/mauritssilvis/types): A collection of data types and structures
 
 ### Academic projects
 
