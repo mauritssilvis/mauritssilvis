@@ -43,5 +43,5 @@ Therefore, I am currently looking for a position as a software engineer for high
 
 ## Links
 
-- [Personal website](https://www.mauritssilvis.nl/)
+- [Personal website](https://mauritssilvis.nl/)
 - [LinkedIn](https://www.linkedin.com/in/mauritssilvis/)
