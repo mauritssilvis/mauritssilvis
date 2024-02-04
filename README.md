@@ -1,17 +1,14 @@
 # Maurits Silvis
 
-> Software Engineer | Mechanical Engineer | Computational Scientist | PhD
+> Software Engineer | Computational Scientist | PhD
 
 Hi there!
 My name is Maurits Silvis.
-As a software engineer with a background in mechanical engineering, computational science and physics, I love solving complex problems using code.
+As a software engineer with a background in computational science and physics, I love solving complex challenges using code.
 
+I recently started as a back-end developer at opwoco.
 Previously, I worked as a software engineer at beQualified, where I developed, maintained and tested a Java-based test automation framework for web applications.
-Before, I obtained a PhD in mechanical engineering, for which I improved the accuracy and fidelity of numerical predictions of turbulent fluid flows.
-I also was a visiting researcher at several universities.
-
-Moving forward, I would like to contribute to creating high-quality software for solving technological challenges.
-Therefore, I am currently looking for a position as a software engineer for high-tech, deep-tech or engineering applications.
+I also obtained a PhD in mechanical engineering, for which I improved the accuracy and fidelity of numerical predictions of turbulent fluid flows.
 
 ## Projects
 
