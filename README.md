@@ -7,8 +7,10 @@ My name is Maurits Silvis.
 As a software engineer with a background in computational science and physics, I love solving complex challenges using code.
 
 I recently started as a back-end developer at opwoco, an IT service provider specializing in creating mobile apps.
-Previously, I worked as a software engineer at beQualified, where I developed, maintained and tested a Java-based test automation framework for web applications.
+Previously, I worked as a software engineer at beQualified, where I developed, maintained and tested a test automation framework for web applications.
 I also obtained a PhD in mechanical engineering, for which I improved the accuracy and fidelity of numerical predictions of turbulent fluid flows.
+
+Moving forward, I would like to contribute to creating simulation software for high-tech, deep-tech or engineering applications.
 
 ## Projects
 
