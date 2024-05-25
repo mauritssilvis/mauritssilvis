@@ -1,6 +1,6 @@
 # Maurits Silvis
 
-> Software Engineer | Computational Scientist | PhD
+> Software Engineer • Computational Scientist • PhD
 
 Hi there!
 My name is Maurits Silvis.
