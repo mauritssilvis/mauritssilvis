@@ -14,7 +14,7 @@ Moving forward, I would like to contribute to creating high-quality simulation s
 
 ## Projects
 
-### New projects
+### Highlighted projects
 
 - [darts](https://github.com/mauritssilvis/darts): A computational toolbox aimed at the game of darts
 
@@ -22,7 +22,7 @@ Moving forward, I would like to contribute to creating high-quality simulation s
 
 - [Patterns](https://github.com/mauritssilvis/patterns): A collection of design patterns
 - [Types](https://github.com/mauritssilvis/types): A collection of data types and structures
-- [Challenges](https://github.com/mauritssilvis/challenges): A collection of programming challenges
+- [Challenges](https://github.com/mauritssilvis/challenges): A collection of programming-related challenges
 
 ### Academic projects
 
