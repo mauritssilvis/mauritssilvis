@@ -3,14 +3,14 @@
 > Software Engineer • Computational Scientist • PhD
 
 Hi there!
-My name is Maurits Silvis.
-As a software engineer with a background in computational science and physics, I love solving complex challenges using code.
+My name is Maurits.
+I am a software engineer with a background in computational science and physics, and I love solving complex challenges using code.
 
-I recently started as a full-stack developer at d.velop mobile services, an IT service provider specializing in creating mobile apps.
-Previously, I worked as a software engineer at beQualified, where I developed, maintained and tested a test automation framework for web applications.
-I also obtained a PhD in mechanical engineering, for which I improved the accuracy and fidelity of numerical predictions of turbulent fluid flows.
+Presently, I am a full-stack web developer at d.velop mobile services, an IT service provider specializing in mobile applications.
+Previously, I was a software engineer at beQualified, where I worked on a test automation framework for web applications.
+I also have a PhD in mechanical engineering, for which I improved the accuracy and fidelity of numerical predictions of turbulent fluid flows.
 
-Moving forward, I would like to contribute to creating simulation software for high-tech, deep-tech or engineering applications.
+Moving forward, I would like to contribute to creating high-quality simulation software for high-tech, deep-tech or engineering applications.
 
 ## Projects
 
