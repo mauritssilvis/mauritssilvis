@@ -32,6 +32,8 @@ Moving forward, I would like to contribute to creating high-quality simulation s
 
 ### Issues
 
+- https://github.com/quarkiverse/quarkus-quinoa/issues/867: Single-page application functionality is lost when compiling a Quarkus + Quinoa + Svelte project with a non-default HTTP root path to a GraalVM native image
+- https://github.com/gradle/gradle/issues/24591: `gradle init` with `Generate build using new APIs and behavior` seems to use the wrong toolchain resolver plugin
 - https://github.com/reportportal/agent-java-cucumber6/issues/20: Scenario outlines with dynamic names not supported
 <!-- - [...](https://github.com/search?q=author%3Amauritssilvis+type%3Aissue+-user%3Amauritssilvis&type=Issues) -->
 
