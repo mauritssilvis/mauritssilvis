@@ -6,7 +6,7 @@ Hi there!
 My name is Maurits.
 I am a software engineer with a background in computational science and physics, and I love solving complex challenges using code.
 
-Presently, I am a full-stack web developer at d.velop mobile services, an IT service provider specializing in mobile applications.
+Presently, I am a full-stack web developer at d.velop mobile services, an IT service provider specializing in mobile and web applications.
 Previously, I was a software engineer at beQualified, where I worked on a test automation framework for web applications.
 I also have a PhD in mechanical engineering, for which I improved the accuracy and fidelity of numerical predictions of turbulent fluid flows.
 
