@@ -10,7 +10,7 @@ Presently, I am a full-stack web developer at d.velop mobile services, an IT ser
 Previously, I was a software engineer at beQualified, where I worked on a test automation framework for web applications.
 I also have a PhD in mechanical engineering, for which I improved the accuracy and fidelity of numerical predictions of turbulent fluid flows.
 
-Moving forward, I would like to contribute to creating high-quality simulation software for high-tech, deep-tech or engineering applications.
+Moving forward, I would like to contribute to creating high-quality software for high-tech, deep-tech or engineering applications.
 
 ## Projects
 
